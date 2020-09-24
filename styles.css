@@ -4,12 +4,13 @@
 :root{
   --header-height: 3rem;
   --font-semi: 600;
+  
 }
 
 /*===== Colores =====*/
 :root{
-  --first-color: yellow;
-  --second-color:grey;
+  --first-color: darkgrey;
+  --second-color:darkblue;
 }
 
 /*===== Fuente y tipografia =====*/
@@ -344,7 +345,7 @@ img{
 /* ===== FOOTER =====*/
 .footer{
   background-color: var(--second-color);
-  color: #fff;
+  color:black;
   text-align: center;
   font-weight: var(--font-semi);
   padding: 2rem 0;
