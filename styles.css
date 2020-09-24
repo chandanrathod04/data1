@@ -8,8 +8,8 @@
 
 /*===== Colores =====*/
 :root{
-  --first-color: #4070F4;
-  --second-color: #0E2431;
+  --first-color: yellow;
+  --second-color:grey;
 }
 
 /*===== Fuente y tipografia =====*/
@@ -116,7 +116,7 @@ img{
   top: 0;
   left: 0;
   z-index: var(--z-fixed);
-  background-color: #fff;
+  background-color:black;
   box-shadow: 0 1px 4px rgba(146,161,176,.15);
 }
 
@@ -145,7 +145,7 @@ img{
 }
 .nav__link{
   position: relative;
-  color: #fff;
+  color:black;
 }
 .nav__link:hover{
   position: relative;
