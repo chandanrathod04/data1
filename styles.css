@@ -224,7 +224,7 @@ img{
 .button{
   display: inline-block;
   background-color: var(--first-color);
-  color: #fff;
+  color:darkblue;
   padding: .75rem 2.5rem;
   font-weight: var(--font-semi);
   border-radius: .5rem;
@@ -359,7 +359,7 @@ img{
 }
 .footer__icon{
   font-size: 1.5rem;
-  color: #fff;
+  color:black;
   margin: 0 var(--mb-2)
 }
 
